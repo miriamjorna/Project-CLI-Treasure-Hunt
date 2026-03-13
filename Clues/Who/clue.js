@@ -28,5 +28,6 @@ When you're done, run:
 
 ${shaCommand}
 
-And paste the output into Slack thread 🧵 (create a new thread if there isn't one already).
+This will give you a 64-character hash, so that the answer is not spoilt for other people.  
+Paste the output into your cohort's Slack thread 🧵 (create a new thread if there isn't one already). 
 `)
